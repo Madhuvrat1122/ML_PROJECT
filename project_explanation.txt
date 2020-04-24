@@ -1,0 +1,28 @@
+predicting the human current position using the angles of different body parts.
+labels:-
+STANDING
+SITTING
+LAYING
+WALKING
+WALKING_DOWNSTAIRS
+WALKING_UPSTAIRS
+
+ALgorithm used:-
+(1).Decision Tree
+   (i).Accuracy without features selection
+       Accuracy:-85.61%
+
+   (ii).Accuracy After features selection
+        Accuracy:-24%
+
+(2). Random Forest
+   (i).Accuracy without features selection
+       Accuracy:-24.56%
+	
+   (ii).Accuracy After features selection
+        Accuracy:-24%
+
+(3). KNN
+     Accuracy:-90.02%
+
+so,KNN Algorithm is giving the highest accuracy that is:-90.02%
