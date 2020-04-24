@@ -1,4 +1,5 @@
 predicting the human current position using the angles of different body parts.
+Download the given zip file of given dataset and extract it.
 labels:-
 STANDING
 SITTING
